@@ -36,9 +36,9 @@
 
 ### 计算机基础
 
-1. [程序是怎样跑起来的.epub](https://pan.baidu.com/s/1WiR9WqijcomcD_IO7WInlg) 
-2. [网络是怎样连接的_-_日_户根勤.epub](https://pan.baidu.com/s/1p1TyHeQyIGc1SFQTmgydDg) 
-3. [深入理解计算机系统中文第三版1-300页.pdf](https://pan.baidu.com/s/1kcyw2pqB0uIwfm_b5ETQOQ) 
+1. [程序是怎样跑起来的.epub](http://www.newlighland.online/p.php?8tp=s2.20295a5b500.pg3) 
+2. [网络是怎样连接的_-_日_户根勤.epub](http://www.newlighland.online/p.php?8tp=s1.20295a6b500.pg3) 
+3. [深入理解计算机系统中文第三版1-300页.pdf](http://www.newlighland.online/p.php?8tp=s2.20295a7b500.pg3) 
 4. [深入理解计算机系统中文第三版301-550页.pdf](https://pan.baidu.com/s/1JQOE3bBlSCxnwJqT20A1sg) 
 5. [深入理解计算机系统中文第三版551-775.pdf](https://pan.baidu.com/s/1mtk4HUsiDd4uYLk-KJ8oxw) 
 6. [编码隐匿在计算机软硬件背后的语言.epub](https://pan.baidu.com/s/1peEVKwJrBs1bWrLylSM8Cw) 
