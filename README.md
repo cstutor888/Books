@@ -36,57 +36,57 @@
 
 ### 计算机基础
 
-1. [程序是怎样跑起来的.epub](http://www.newlighland.online/p.php?8tp=s2.20295a5b500.pg3) 
-2. [网络是怎样连接的_-_日_户根勤.epub](http://www.newlighland.online/p.php?8tp=s1.20295a6b500.pg3) 
-3. [深入理解计算机系统中文第三版1-300页.pdf](http://www.newlighland.online/p.php?8tp=s2.20295a7b500.pg3) 
-4. [深入理解计算机系统中文第三版301-550页.pdf](https://pan.baidu.com/s/1JQOE3bBlSCxnwJqT20A1sg) 
-5. [深入理解计算机系统中文第三版551-775.pdf](https://pan.baidu.com/s/1mtk4HUsiDd4uYLk-KJ8oxw) 
-6. [编码隐匿在计算机软硬件背后的语言.epub](https://pan.baidu.com/s/1peEVKwJrBs1bWrLylSM8Cw) 
+1. [程序是怎样跑起来的.epub](http://www.newlighland.online/p.php?8tp=s1.20295a14b500.pg3) 
+2. [网络是怎样连接的_-_日_户根勤.epub](http://www.newlighland.online/p.php?8tp=s2.20295a15b500.pg3) 
+3. [深入理解计算机系统中文第三版1-300页.pdf](http://www.newlighland.online/p.php?8tp=s1.20295a16b500.pg3) 
+4. [深入理解计算机系统中文第三版301-550页.pdf](http://www.newlighland.online/p.php?8tp=s1.20295a17b500.pg3) 
+5. [深入理解计算机系统中文第三版551-775.pdf](http://www.newlighland.online/p.php?8tp=s1.20295a18b500.pg3) 
+6. [编码隐匿在计算机软硬件背后的语言.epub](http://www.newlighland.online/p.php?8tp=s2.20295a19b500.pg3) 
 
 ### 数据结构与算法
 
-1. [大话数据结构](https://pan.baidu.com/s/1VKYAVYqGwxvEPfeEwSX-6A) 
-2. [数据结构](https://pan.baidu.com/s/1zOFovb2HnK_rgYw_B-eTBg) 
-3. [数据结构与算法分析C语言描述_原书第2版_高清版.pdf](https://pan.baidu.com/s/1tfQi4aYw4foxMFDoDkdAIA) 
+1. [大话数据结构](http://www.newlighland.online/p.php?8tp=s1.20295a20b500.pg3) 
+2. [数据结构](  http://www.newlighland.online/p.php?8tp=s2.20295a21b500.pg3) 
+3. [数据结构与算法分析C语言描述_原书第2版_高清版.pdf](http://www.newlighland.online/p.php?8tp=s1.20295a22b500.pg3) 
 
 ### iOS
 
-1. [RxSwift_Reactive_Programming_with_Swift_v2.0](https://pan.baidu.com/s/1jTmMU7X3hZpK-NHbQSYN1A) 
-2. [Swift进阶](https://pan.baidu.com/s/1s_Ce0LcPBuXBPxufDbxAcA) 
-3. [UTF-8_RxSwift_Reactive_Programming_with_Swift_v2.0.epub](https://pan.baidu.com/s/1AfME-DI-5dZTc9CXyP9Z8Q) 
-4. [高性能_iOS_应用开发_-_Gaurav_Vaish.epub](https://pan.baidu.com/s/1wpIa-6Pww11a5GL5HBXM4w) 
-5. [app_架构.pdf](https://pan.baidu.com/s/1k15wQUFmpLDj5sWRCdyfdg) 
+1. [RxSwift_Reactive_Programming_with_Swift_v2.0](http://www.newlighland.online/p.php?8tp=s2.20295a23b500.pg3) 
+2. [Swift进阶](http://www.newlighland.online/p.php?8tp=s1.20295a24b500.pg3) 
+3. [UTF-8_RxSwift_Reactive_Programming_with_Swift_v2.0.epub](http://www.newlighland.online/p.php?8tp=s1.20295a25b500.pg3) 
+4. [高性能_iOS_应用开发_-_Gaurav_Vaish.epub](http://www.newlighland.online/p.php?8tp=s1.20295a26b500.pg3) 
+5. [app_架构.pdf](http://www.newlighland.online/p.php?8tp=s1.20295a27b500.pg3) 
 
 ### Flutter
 
-1. [Flutter in action 咸鱼最佳实践.pdf](https://pan.baidu.com/s/1o7OAn8RimktHC_LUcPh4-Q) 
+1. [Flutter in action 咸鱼最佳实践.pdf](http://www.newlighland.online/p.php?8tp=s2.20295a30b500.pg3) 
 
 ### Python
 
-1. [Python数据科学](https://pan.baidu.com/s/1-o1LmANZziyFdpgdtQN8ww) 
-2. [Python科学计算-第2版](https://pan.baidu.com/s/10DYxJ_rUmSqrRYeFUOcp-Q) 
-3. [Python金融大数据分析.pdf](https://pan.baidu.com/s/1HUyD-_tnB3jTjM2y3iXJpQ) 
-4. [编写高质量代码改善Python程序的91个建议.epub](https://pan.baidu.com/s/16DCbfWhin_s9YIQtmfFxBg) 
-5. [python绝技运用python成为顶级黑客中文版.pdf](https://pan.baidu.com/s/1yEonJFeUEXt22rwKqgj4Mw) 
-6. [python大数据与量化交易.pdf](https://pan.baidu.com/s/1MCxkDyl5Gycsh_fwpgv7rg) 
+1. [Python数据科学](http://www.newlighland.online/p.php?8tp=s1.20295a31b500.pg3) 
+2. [Python科学计算-第2版](http://www.newlighland.online/p.php?8tp=s2.20295a32b500.pg3) 
+3. [Python金融大数据分析.pdf](http://www.newlighland.online/p.php?8tp=s2.20295a33b500.pg3) 
+4. [编写高质量代码改善Python程序的91个建议.epub](http://www.newlighland.online/p.php?8tp=s1.20295a34b500.pg3) 
+5. [python绝技运用python成为顶级黑客中文版.pdf](http://www.newlighland.online/p.php?8tp=s1.20295a35b500.pg3) 
+6. [python大数据与量化交易.pdf](http://www.newlighland.online/p.php?8tp=s1.20295a36b500.pg3) 
 
 ### 人工智能
 
 #### 概述
 
-1. [人工智能：未来商业与场景落地实操 张泽谦](https://pan.baidu.com/s/1Yzttd_T7HNf2iEVXLnebjQ) 
-2. [给你一本人工智能入门生意经哈佛商业评论增刊_-_哈佛商业评论.epub](https://pan.baidu.com/s/1SlTZv2RCzKQ_y5UVNLc21g) 
-3. [未来简史](https://pan.baidu.com/s/1LoqGGAx7Km3W7sBdkfxESw) 
-4. [暗网](https://pan.baidu.com/s/1EBQ-VY4m-DhBGX-zmL8eKw) 
-5. [三体](https://pan.baidu.com/s/1PlTK1MHxm1KlTD_AK_A0Yw) 
-6. [生命3.0](https://pan.baidu.com/s/1k4QOkJjSbXQ6vx8K6kRkkQ) 
-7. [玫瑰战争简史](https://pan.baidu.com/s/1cf2pz1lkIeDlO6lFKrjTLQ) 
-8. [终极复制：人工智能将如何推动社会巨变.epub](https://pan.baidu.com/s/1R7xHTtX7oGSuxCgPR1vapQ) 
-9. [无界：人工智能时代的认知升级.epub](https://pan.baidu.com/s/1CWlub8N3YLOFuA22IpjCQg) 
-10. [《人工智能哲学》[英]玛格丽特·博登编著 (上海译文出版社 2001).pdf](https://pan.baidu.com/s/1tTgTpeRXje6tewgR8uXvlA) 
-11. [心智社会：从细胞到人工智能，人类思维的优雅解读.epub](https://pan.baidu.com/s/1epeEbBPrLmdniW15W6rFHQ) 
-12. [科学的极致：漫谈人工智能.epub](https://pan.baidu.com/s/1hzuoAro-FOLoH7UWucbYrA) 
-13. [人工智能的未来.epub](https://pan.baidu.com/s/1XluEqAGgxV3v4839U0zBfQ) 
+1. [人工智能：未来商业与场景落地实操 张泽谦](http://www.newlighland.online/p.php?8tp=s1.20295a37b500.pg3) 
+2. [给你一本人工智能入门生意经哈佛商业评论增刊_-_哈佛商业评论.epub](http://www.newlighland.online/p.php?8tp=s2.20295a38b500.pg3) 
+3. [未来简史](http://www.newlighland.online/p.php?8tp=s2.20295a39b500.pg3) 
+4. [暗网](http://www.newlighland.online/p.php?8tp=s1.20295a40b500.pg3) 
+5. [三体](http://www.newlighland.online/p.php?8tp=s2.20295a41b500.pg3) 
+6. [生命3.0](http://www.newlighland.online/p.php?8tp=s1.20295a42b500.pg3) 
+7. [玫瑰战争简史](http://www.newlighland.online/p.php?8tp=s1.20295a43b500.pg3) 
+8. [终极复制：人工智能将如何推动社会巨变.epub](http://www.newlighland.online/p.php?8tp=s2.20295a44b500.pg3) 
+9. [无界：人工智能时代的认知升级.epub](http://www.newlighland.online/p.php?8tp=s2.20295a45b500.pg3) 
+10. [《人工智能哲学》[英]玛格丽特·博登编著 (上海译文出版社 2001).pdf](http://www.newlighland.online/p.php?8tp=s2.20295a46b500.pg3) 
+11. [心智社会：从细胞到人工智能，人类思维的优雅解读.epub](http://www.newlighland.online/p.php?8tp=s2.20295a47b500.pg3) 
+12. [科学的极致：漫谈人工智能.epub](http://www.newlighland.online/p.php?8tp=s2.20295a48b500.pg3) 
+13. [人工智能的未来.epub](http://www.newlighland.online/p.php?8tp=s1.20295a49b500.pg3) 
 
 #### 机器学习
 
